@@ -1,5 +1,6 @@
 FinArea: AI-Powered Personal Finance Tracking & Budget Planning Application
 
+<img width="701" height="701" alt="image" src="https://github.com/user-attachments/assets/675cfa97-4de6-434a-ab39-89ed584c1431" />
 
 🚀 Project Overview
 FinArea is an AI-powered personal finance application designed to help users understand, track, and improve their spending habits. It provides intelligent solutions for individuals who want to gain full visibility over their financial behavior and make smarter decisions about their money.
